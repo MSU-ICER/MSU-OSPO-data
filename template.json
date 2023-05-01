@@ -1,0 +1,15 @@
+{
+  "pi_name": "Name of group leader",
+  "department": "MSU department",
+  "contact": "email address",
+  "group_members": ["group member 1", "group member 2"],
+  
+  "project": {
+    "project_name": "Name of the project",
+    "type": "software, textbook, data?",
+    "repository": "where is it stored?",
+    "description": "what does the project do?",
+    "documentation": "documentation website, if applicable",
+    "website": "public website, if applicable"
+  }
+}
