@@ -1,0 +1,22 @@
+{
+  "pi_name": "NWolfgang Kerzendorf",
+  "department": "Physics and Astronomy",
+  "contact": "wkerzend@msu.edu",
+  "group_members": [
+    "Andrew Fullard", 
+    "Jing Lu", 
+    "Jack O'Brien", 
+    "Josh Shields", 
+    "Sona Chitchyan", 
+    "Yuki Matsumura"
+  ],
+  
+  "project": {
+    "project_name": "TARDIS Radiative Transfer",
+    "type": "software",
+    "repository": "https://github.com/tardis-sn",
+    "description": "TARDIS is an open-source Monte Carlo radiative-transfer spectral synthesis code for 1D models of supernova ejecta. It is designed for rapid spectral modelling of supernovae. It is developed and maintained by a multi-disciplinary team including software engineers, computer scientists, statisticians, and astrophysicists.",
+    "documentation": "https://tardis-sn.github.io/tardis/",
+    "website": "https://tardis-sn.github.io/"
+  }
+}
